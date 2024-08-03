@@ -7,3 +7,6 @@ Meu nome é Fernanda Uliana
 -Estou me desenvolvendo na linguagem Javascript
 
 -Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+
+![](https://media.tenor.com/HoXg2JXLbisAAAAi/capple.gif)
